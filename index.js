@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Viendolos 👀","Creador: Jesucristo_0"];
+const statusMessages = ["Viendolos 👀","Creador: Jesucristo_0 y TheDark"];
 
 
 let currentIndex = 0;
