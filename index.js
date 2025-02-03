@@ -101,7 +101,7 @@ client.once('ready', () => {
   }, 10000);
 });
 
-login(MTMzNTgwNTY4NzAxNTY2OTg2MQ.Gq9Fod.rzz4Z2a5iaSDw7nT1z7VJqiQKPHofr8tgGJWsg);
+login(MTMzNTgwNTY4NzAxNTY2OTg2MQ.GugFza.KlBaFVsm4qmySH1Atao1_Pqn4HshKH2prbnLkY);
 
 /**
  ██████╗░████████╗██╗░░██╗           
